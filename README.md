@@ -1,5 +1,5 @@
 ### Hi there, I'm Salma - aka IdealisticINTJ ! 👋
-## I'm a Student(Undergrad), Web Developer in the making and a Lifelong Philosophy aficionado !
+## I'm a Student(Undergrad), Web Developer in the making and Lifelong Philosophy aficionado !
 
 
 - 🔭 I’m currently working on ...My first ML project
