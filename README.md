@@ -1,4 +1,4 @@
-# Hi there, I'm Salma - aka IdealisticINTJ... :snowflake:
+# Hi there, I'm [Salma](https://www.linkedin.com/in/salma7/)- aka IdealisticINTJ... :snowflake:
 ### I'm a Student(Undergrad), Web Developer in the making and Lifelong Philosophy aficionado !
 
 ## Who am I?
@@ -28,9 +28,7 @@
 
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FIdealisticINTJ&count_bg=%23F50867&title_bg=%23058DF1&icon=github.svg&icon_color=%23F9B408&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
   ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
-<p align="left">
-<a href="https://www.linkedin.com/in/salma7/" target="_blank"><img height="30" 
-<br>                                                                  
+                                                                 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
   
 <!-- https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif -->
@@ -51,23 +49,16 @@
 <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/datascience.png" alt="datascience" width="90" height="20">
 ---
 
-<hr>
-
 <details>
 <summary>📈 My GitHub Stats</summary>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=IdealisticINTJ&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
 
 </details>
-
-</br>
-
-<b>Random Quote</b>
-<br>
-<text> Every man takes the limits of his own field of vision for the limits of the world.— Arthur Schopenhauer </text>
+<h3>Random Quote</h3>
+<text>Every man takes the limits of his own field of vision for the limits of the world.— Arthur Schopenhauer </text>
 </p>
 <hr style="width:75%;text-align:center">
-
 
 ### 📢 Find me elsewhere
 <p align="left">
@@ -79,6 +70,7 @@
     <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/hackerrank.svg" alt="hackerrank" style="vertical-align:top; margin:4px">
   </a>&nbsp;&nbsp;&nbsp;
 </p>
+
 ### Here is a random meme for you, to make your day better
 (*PS: Refresh the page to see a new meme*)
 
