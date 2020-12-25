@@ -1,6 +1,31 @@
 # Hi there, I'm Salma - aka IdealisticINTJ... :snowflake:
 ### I'm a Student(Undergrad), Web Developer in the making and Lifelong Philosophy aficionado !
 
+## Who am I?
+ ```python
+ class WhoAmI:
+ 	   user = 'Salma'
+	   current_edu = "Vellore Institute of Technology - AP"
+	   hobbies = [
+				'Sketching',
+				'Watching K-Dramas',
+				'Reading Sci-Fi Novels & Self Help Books'
+				'Contemplating about the complexities of the cosmos...'
+			]
+	
+	   def getCity():
+		     return Vijayawada_India()
+	
+	   def Ambitions():
+                     ExploreAI()
+                     LearnFrench()
+                     StartaBlog()
+                     OvercomeStageFear()
+	             # Too many to count...Gotta read out my bucket-list then...
+    
+
+```
+
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FIdealisticINTJ&count_bg=%23F50867&title_bg=%23058DF1&icon=github.svg&icon_color=%23F9B408&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
   ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 <p align="left">
@@ -43,30 +68,7 @@
 </p>
 <hr style="width:75%;text-align:center">
 
-## Who am I?
- ```python
- class WhoAmI:
- 	   user = 'Salma'
-	   current_edu = "Vellore Institute of Technology - AP"
-	   hobbies = [
-				'Sketching',
-				'Watching K-Dramas',
-				'Reading Sci-Fi Novels & Self Help Books'
-				'Contemplating about the complexities of the cosmos...'
-			]
-	
-	   def getCity():
-		     return Vijayawada_India()
-	
-	   def Ambitions():
-        ExploreAI()
-		    LearnFrench()
-		    StartaBlog()
-        OvercomeStageFear()
-		    # Too many to count...Gotta read out my bucket-list then...
-    
 
-```
 ### 📢 Find me elsewhere
 <p align="left">
   <a href="https://www.codechef.com/users/mindscapezen">
