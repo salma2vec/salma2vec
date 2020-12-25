@@ -1,4 +1,4 @@
-# Hi there, I'm [Salma](https://www.linkedin.com/in/salma7/)- aka IdealisticINTJ... :snowflake:
+## Hi there, I'm [Salma](https://www.linkedin.com/in/salma7/)- aka IdealisticINTJ... :snowflake:
 ### I'm a Student(Undergrad), Web Developer in the making and Lifelong Philosophy aficionado !
 
 ## Who am I?
@@ -70,11 +70,6 @@
     <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/hackerrank.svg" alt="hackerrank" style="vertical-align:top; margin:4px">
   </a>&nbsp;&nbsp;&nbsp;
 </p>
-
-### Here is a random meme for you, to make your day better
-(*PS: Refresh the page to see a new meme*)
-
-<a href="https://github.com/techytushar/random-memer"><img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up." height="300"></a>
 
 <!--
 **IdealisticINTJ/IdealisticINTJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
