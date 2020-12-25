@@ -16,7 +16,7 @@
 	   def getCity():
 		     return Vijayawada_India()
 	
-	   def Ambitions():
+	   def Goals():
                      ExploreAI()
                      LearnFrench()
                      StartaBlog()
