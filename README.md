@@ -1,6 +1,6 @@
 # Hi there, I'm [Salma-aka Idealistic INTJ](https://www.linkedin.com/in/salma7/) :snowflake: !
 I'm a Computer Science Engineering Freshman passionate about Artificial Intelligence and Web Development and a Lifelong Philosophy aficionado !
-- 🔭 I’m currently working on **Machine Learning, Python and working on augmenting my programming skills.**
+- 🔭 I’m currently learning **Machine Learning and Python and working on augmenting my programming skills.**
 - 🌱 I’m currently exploring **Neural Networks and Deep Learning**
 - 💬 Ask me about **Life, Universe and Everything..."Why ?"** 
 - 😄 Pronouns: **Curious, loves analyzing & questioning... "Socratic questioning" and always optimizing systems**
