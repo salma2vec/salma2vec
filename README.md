@@ -1,52 +1,46 @@
-## Hi there, I'm [Salma](https://www.linkedin.com/in/salma7/)- aka IdealisticINTJ... :snowflake:
-### I'm a Student(Undergrad), Web Developer in the making and Lifelong Philosophy aficionado !
+# Hi there, I'm [Salma-aka Idealistic INTJ](https://www.linkedin.com/in/salma7/) :snowflake: !
+I'm a Computer Science Engineering Freshman passionate about Artificial Intelligence and Web Development and a Lifelong Philosophy aficionado !
+- 🔭 I’m currently working on **Machine Learning, Python and working on augmenting my programming skills.**
+- 🌱 I’m currently exploring **Neural Networks and Deep Learning**
+- 💬 Ask me about **Life, Universe and Everything..."Why ?"** 
+- 😄 Pronouns: **Curious, loves analyzing & questioning... "Socratic questioning" and always optimizing systems**
+- 📫 How to reach me- **salmasaa02@gmail.com**
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=idealisticintj&label=Profile%20views&color=0e75b6&style=flat" alt="idealisticintj" /> </p>
 
-
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FIdealisticINTJ&count_bg=%23F50867&title_bg=%23058DF1&icon=github.svg&icon_color=%23F9B408&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FIdealisticINTJ&count_bg=%23F50867&title_bg=%23058DF1&icon=github.svg&icon_color=%23F9B408&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
   ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
                                                                  
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-  
-<!-- https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif -->
-<!-- <img align="right" height="250" width="400" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" /> -->
-**Languages and Tools:**
-<br>
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height = "20" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/java.png" alt="java"  width="50" height="20">
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/idealisticintj" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="idealisticintj" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/salma7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="salma7" height="30" width="40" /></a>
+<a href="https://codesandbox.com/idealisticintj" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="idealisticintj" height="30" width="40" /></a>
+<a href="https://kaggle.com/idealistic intj" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="idealistic intj" height="30" width="40" /></a>
+<a href="https://medium.com/salmasaa02" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="salmasaa02" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/mindscapezen" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="mindscapezen" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/idealistic intj" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="idealistic intj" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/salmasaa02" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="salmasaa02" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/salmasaa02" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="salmasaa02" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
 
 **Interested in:**
 <br>
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/ai.png" alt="AI" width="50" height="20">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/datascience.png" alt="datascience" width="90" height="20">
+<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/ai.png" alt="AI" width="90" height="30">
+<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/datascience.png" alt="datascience" width="100" height="30">
 ---
 
-<details>
-<summary>📈 My GitHub Stats</summary>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=idealisticintj&show_icons=true&locale=en" alt="idealisticintj" /></p>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=IdealisticINTJ&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
-
-</details>
-<h3>Random Quote</h3>
+<h2>Random Quote</h2>
 <text>Every man takes the limits of his own field of vision for the limits of the world.— Arthur Schopenhauer </text>
 </p>
 <hr style="width:75%;text-align:center">
 
-### 📢 Find me elsewhere
-<p align="left">
-  <a href="https://www.codechef.com/users/mindscapezen">
-    <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/codechef.svg" alt="codechef" style="vertical-align:top; margin:4px">
-  </a>&nbsp;&nbsp;&nbsp;
-
-  <a href="https://www.hackerrank.com/salmasaa02">
-    <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/hackerrank.svg" alt="hackerrank" style="vertical-align:top; margin:4px">
-  </a>&nbsp;&nbsp;&nbsp;
-</p>
 
 <!--
 **IdealisticINTJ/IdealisticINTJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
