@@ -1,4 +1,4 @@
-# Hi there, I'm [Salma-aka Idealistic INTJ](https://www.linkedin.com/in/salma7/) :snowflake: !
+# Hi there, I'm [Salma-aka Idealistic INTJ](https://www.linkedin.com/in/salma7/). :snowflake: 
 I'm a Computer Science Engineering Freshman passionate about Artificial Intelligence and Web Development and a Lifelong Philosophy aficionado !
 - 🔭 I’m currently learning **Machine Learning and Python and working on augmenting my programming skills.**
 - 🌱 I’m currently exploring **Neural Networks and Deep Learning**
