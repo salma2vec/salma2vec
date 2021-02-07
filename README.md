@@ -20,7 +20,7 @@ I'm a Computer Science Engineering Freshman passionate about Artificial Intellig
 <a href="https://kaggle.com/idealistic intj" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="idealistic intj" height="30" width="40" /></a>
 <a href="https://medium.com/@salmasaa02" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="salmasaa02" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/mindscapezen" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="mindscapezen" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/idealistic intj" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="salmasaa02" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/salmasaa02" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="salmasaa02" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/salmasaa02" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="salmasaa02" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/salmasaa02" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="salmasaa02" height="30" width="40" /></a>
 </p>
