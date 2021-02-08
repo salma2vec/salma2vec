@@ -1,9 +1,9 @@
 # Hi there, I'm [Salma-aka Idealistic INTJ](https://www.linkedin.com/in/salma7/). :snowflake: 
-I'm a Computer Science Engineering Freshman passionate about Artificial Intelligence and Web Development and a Lifelong Philosophy aficionado !
+I'm a Computer Science Engineering Freshman passionate about Artificial Intelligence and App Development and a Lifelong Philosophy aficionado !
 - 🔭 I’m currently learning **Machine Learning and Python and working on augmenting my programming skills.**
-- 🌱 I’m currently exploring **Neural Networks and Deep Learning**
+- 🌱 I’m currently exploring **Neural Networks and Deep Learning.**
 - 💬 Ask me about **Life, Universe and Everything..."Why ?"** 
-- 😄 Pronouns: **Curious, loves analyzing & questioning... "Socratic questioning" and always optimizing systems**
+- 😄 Pronouns: **Curious, loves analyzing & questioning... "Socratic questioning" and always optimizing systems.**
 - 📫 How to reach me- **salmasaa02@gmail.com**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=idealisticintj&label=Profile%20views&color=0e75b6&style=flat" alt="idealisticintj" /> </p>
@@ -37,7 +37,5 @@ I'm a Computer Science Engineering Freshman passionate about Artificial Intellig
 <text>Every man takes the limits of his own field of vision for the limits of the world.— Arthur Schopenhauer </text>
 </p>
 <hr style="width:75%;text-align:center">
-
-
 <!--
 **IdealisticINTJ/IdealisticINTJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
