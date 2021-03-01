@@ -30,12 +30,5 @@ I'm a Computer Science Engineering Freshman passionate about Artificial Intellig
 <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/ai.png" alt="AI" width="90" height="30">
 <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/datascience.png" alt="datascience" width="100" height="30">
 ---
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=idealisticintj&show_icons=true&locale=en" alt="idealisticintj" /></p>
-
-<h2>Random Quote</h2>
-<text>Every man takes the limits of his own field of vision for the limits of the world.— Arthur Schopenhauer </text>
-</p>
-<hr style="width:75%;text-align:center">
 <!--
 **IdealisticINTJ/IdealisticINTJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
