@@ -1,4 +1,4 @@
-# Greetings, fellow Earthling.
+# Greetings, fellow Earthling! 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=idealisticintj&label=Profile%20views&color=0e75b6&style=flat" alt="idealisticintj" /> </p>
 
 ## I'm [Salma-aka Idealistic INTJ](https://www.linkedin.com/in/salma7/). 
