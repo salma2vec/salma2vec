@@ -1,16 +1,22 @@
-# Hi there, I'm [Salma-aka Idealistic INTJ](https://www.linkedin.com/in/salma7/). 
-I'm a Computer Science Engineering Freshman passionate about Artificial Intelligence and App Development and a Lifelong Philosophy aficionado!
-- 🔭 I’m currently learning **Machine Learning and Python and working on augmenting my programming skills.**
+# Greetings, fellow Earthling.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=idealisticintj&label=Profile%20views&color=0e75b6&style=flat" alt="idealisticintj" /> </p>
+
+## I'm [Salma-aka Idealistic INTJ](https://www.linkedin.com/in/salma7/). 
+  
+- 🔭 I’m currently learning **Machine Learning and working on augmenting my programming skills.**
 - 🌱 I’m currently exploring **Neural Networks and Deep Learning.**
 - 💬 Ask me about **Life, the Universe and Everything..."Why ?"** 
 - 😄 Pronouns: **Curious, loves analyzing & questioning... "Socratic questioning" and always optimizing systems.**
-- 📫 How to reach me- **salmasaa02@gmail.com**
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=idealisticintj&label=Profile%20views&color=0e75b6&style=flat" alt="idealisticintj" /> </p>
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FIdealisticINTJ&count_bg=%23F50867&title_bg=%23058DF1&icon=github.svg&icon_color=%23F9B408&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-  ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
                                                                  
+### Interests 
+- :chart_with_upwards_trend: Machine Learning | Data Science | Mobile App Development | Competetive Programming | Problem Solving 
+- :bulb: Reading philosophy and business self-help books.
+- :purple_heart: Social Causes I am passionate about: Mental health awareness and Animal welfare.
+- :thinking: A Neuroscience, Astronomy and Philosophy aficionado
+
+### Random Quote
+“If you have built castles in the air, your work need not be lost; that is where they should be. Now, put the foundations under them.” 
+~ Henry David Thoreau 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -25,6 +31,6 @@ I'm a Computer Science Engineering Freshman passionate about Artificial Intellig
 <a href="https://auth.geeksforgeeks.org/user/salmasaa02" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="salmasaa02" height="30" width="40" /></a>
 </p>
 
-
+                                                                                                                                    
 <!--
 **IdealisticINTJ/IdealisticINTJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
