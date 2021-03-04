@@ -1,5 +1,5 @@
 # Hi there, I'm [Salma-aka Idealistic INTJ](https://www.linkedin.com/in/salma7/). 
-I'm a Computer Science Engineering Freshman passionate about Artificial Intelligence and App Development and a Lifelong Philosophy aficionado !
+I'm a Computer Science Engineering Freshman passionate about Artificial Intelligence and App Development and a Lifelong Philosophy aficionado!
 - 🔭 I’m currently learning **Machine Learning and Python and working on augmenting my programming skills.**
 - 🌱 I’m currently exploring **Neural Networks and Deep Learning.**
 - 💬 Ask me about **Life, the Universe and Everything..."Why ?"** 
@@ -27,7 +27,7 @@ I'm a Computer Science Engineering Freshman passionate about Artificial Intellig
 
 **Interested in:**
 <br>
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/ai.png" alt="AI" width="90" height="30">
+<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/ai.png" alt="AI" width="100" height="30">
 <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/datascience.png" alt="datascience" width="150" height="30">
 ---
 <!--
