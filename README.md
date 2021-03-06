@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently exploring **Neural Networks and Deep Learning.**
 - 🔭 I’m currently working on **Machine Learning, Deep Learning and Statistics.**
-- :pineapple: I’m open for collaborations on projects, hackathons and novel research ideas!
+- :pineapple: I’m open for collaborations on **projects, hackathons and novel research ideas!**
 - 💬 Ask me about **Life, the Universe and Everything..."Why ?"** 
 - 😄 Pronouns: **Curious, loves analyzing & questioning... "Socratic questioning" and always optimizing systems.**
                                                                  
