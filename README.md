@@ -13,7 +13,7 @@
 - :chart_with_upwards_trend: Machine Learning | Data Science | Mobile App Development | Competetive Programming | Problem Solving 
 - :bulb: Reading philosophy and business self-help books.
 - :purple_heart: Social Causes I am passionate about: Mental health awareness and Animal welfare.
-- :thinking: A Neuroscience, Astronomy and Philosophy aficionado
+- :thinking: A Cognitive Neuroscience, Astronomy and Philosophy aficionado
 
 ### Random Quote
 “If you have built castles in the air, your work need not be lost; that is where they should be. Now, put the foundations under them.” 
