@@ -3,11 +3,10 @@
 
 ## I'm [Salma-aka Idealistic INTJ](https://www.linkedin.com/in/salma7/). 
 
-- 🌱 I’m currently exploring **Neural Networks and Deep Learning.**
-- 🔭 I’m currently working on **Machine Learning, Deep Learning and Statistics.**
-- :pineapple: I’m open for collaborations on **projects, hackathons and novel research ideas!**
-- 💬 Ask me about **Life, the Universe and Everything..."Why ?"** 
-- 😄 Pronouns: **Curious, loves analyzing & questioning... "Socratic questioning" and always optimizing systems.**
+- 🌱 I’m currently learning Deep Learning fundamentals and trying to better my DSA skills.
+- :pineapple: I’m open for collaborations on projects, hackathons and novel research ideas!
+- 💬 Ask me about Life, the Universe and Everything..."Why ?"
+- 😄 Pronouns: Curious, loves analyzing & questioning... "Socratic questioning" and always optimizing systems.
                                                                  
 ### Interests 
 - :chart_with_upwards_trend: Machine Learning | Data Science | Mobile App Development | Competetive Programming | Problem Solving 
@@ -31,7 +30,6 @@
 <a href="https://www.leetcode.com/salmasaa02" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="salmasaa02" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/salmasaa02" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="salmasaa02" height="30" width="40" /></a>
 </p>
-
                                                                                                                                     
 <!--
 **IdealisticINTJ/IdealisticINTJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
