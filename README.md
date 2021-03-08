@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning Deep Learning fundamentals and trying to better my DSA skills.
 - :pineapple: I’m open for collaborations on projects, hackathons and novel research ideas!
-- 💬 Ask me about Life, the Universe and Everything..."Why ?"
+- 💬 Ask me about Life, the Universe and Everything..."Why?"
 - 😄 Pronouns: Curious, loves analyzing & questioning... "Socratic questioning" and always optimizing systems.
                                                                  
 ### Interests 
