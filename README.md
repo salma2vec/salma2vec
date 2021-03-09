@@ -18,7 +18,7 @@
 “If you have built castles in the air, your work need not be lost; that is where they should be. Now, put the foundations under them.” 
 ~ Henry David Thoreau 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: <img src="https://user-images.githubusercontent.com/53649201/99296951-8ef68900-286d-11eb-9bf3-fdb6cf13b585.gif" height="32px"></h3>
 <p align="left">
 <a href="https://dev.to/idealisticintj" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="idealisticintj" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/salma7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="salma7" height="30" width="40" /></a>
