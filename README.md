@@ -10,7 +10,7 @@
 - 😄 Pronouns: Curious, loves analyzing & questioning... "Socratic questioning" and always optimizing systems.
                                                                  
 ### Interests 
-- :chart_with_upwards_trend: Machine Learning | Data Science | Mobile App Development | Competetive Programming | Problem Solving 
+- :chart_with_upwards_trend: Machine Learning | Data Science | Mobile App Development | Competitive Programming | Problem Solving 
 - :bulb: Reading philosophy and business self-help books.
 - :purple_heart: Social Causes I am passionate about: Mental health awareness and Animal welfare.
 - :thinking: A Cognitive Neuroscience, Astronomy and Philosophy aficionado
