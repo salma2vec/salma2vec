@@ -8,7 +8,6 @@
 - :pineapple: I’m open for collaborations on projects, hackathons and novel research ideas!
 - 🤔 I am looking for help with React JS and GUI Applications.
 - 💬 Ask me about Life, the Universe and Everything..."Why?"
-- ❔ Pronouns: Curious, loves analyzing & questioning... "Socratic questioning" and always optimizing systems.
 - ⚡ Fun fact: I have a Guinness World Records Certificate in my name! 
                                                                  
 ### Interests 
