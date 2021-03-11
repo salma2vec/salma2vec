@@ -6,6 +6,7 @@
 - 🌱 I’m currently learning Deep Learning fundamentals and trying to better my DSA skills.
 - 🧮 I'm currently working on Front-End Web Development with a UX / UI focus.
 - :pineapple: I’m open for collaborations on projects, hackathons and novel research ideas!
+- 🤔 I am looking for help with React JS and GUI Applications.
 - 💬 Ask me about Life, the Universe and Everything..."Why?"
 - 😄 Pronouns: Curious, loves analyzing & questioning... "Socratic questioning" and always optimizing systems.
                                                                  
