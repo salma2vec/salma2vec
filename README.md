@@ -3,14 +3,14 @@
 
 ## I'm [Salma-aka Idealistic INTJ](https://www.linkedin.com/in/salma7/). 
 
-- 🌱 I’m currently learning Deep Learning fundamentals and trying to better my DSA skills.
+- 🌱 I’m currently learning Deep Learning fundamentals and trying to better my DSA skills. <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="40">
 - 🧮 I'm currently working on Front-End Web Development with a UX / UI focus.
 - :pineapple: I’m open for collaborations on projects, hackathons and novel research ideas!
 - 🤔 I am looking for help with React JS and GUI Applications.
 - 💬 Ask me about Life, the Universe and Everything..."Why?"
 - ⚡ Fun fact: I have a Guinness World Records Certificate in my name! 
                                                                  
-### Interests 
+### Interests <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40">
 - :chart_with_upwards_trend: Machine Learning | Data Science | Mobile App Development | Competitive Programming | Problem Solving 
 - :bulb: Reading philosophy and business self-help books.
 - :purple_heart: Social Causes I am passionate about: Mental health awareness and Animal welfare.
@@ -32,6 +32,22 @@
 <a href="https://www.leetcode.com/salmasaa02" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="salmasaa02" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/salmasaa02" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="salmasaa02" height="30" width="40" /></a>
 </p>
+
+<details>
+  <summary><b>My GitHub Stats</b></summary>
+    <a href="https://github.com/dat-adi/dat-adi">
+<p align = "center">
+  <img  src = "https://github-readme-stats.vercel.app/api?username=IdealisticINTJ&show_icons=true&theme=algolia&line_height=27">
+</p>
+
+<p align = "center">
+ <img  src="https://github-readme-streak-stats.herokuapp.com/?user=IdealisticINTJ&show_icons=true&locale=en&layout=compact&theme=algolia&line_height=0" />
+</p> 
+
+<p align = "center">
+ <img src="https://activity-graph.herokuapp.com/graph?username=IdealisticINTJ&theme=react-dark">
+</p> 
+
                                                                                                                                     
 <!--
 **IdealisticINTJ/IdealisticINTJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
