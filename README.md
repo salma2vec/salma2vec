@@ -3,7 +3,7 @@
 
 ## I'm [Salma-aka Idealistic INTJ](https://www.linkedin.com/in/salma7/). 
 
-- 🌱 I’m currently learning Deep Learning fundamentals and trying to better my DSA skills. <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="30">
+- 🌱 I’m currently learning Deep Learning fundamentals and trying to better my DSA skills. <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="33">
 - 🧮 I'm currently working on Front-End Web Development with a UX / UI focus.
 - :pineapple: I’m open for collaborations on projects, hackathons and novel research ideas!
 - 🤔 I am looking for help with React JS and GUI Applications.
