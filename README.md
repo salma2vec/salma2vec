@@ -33,21 +33,6 @@
 <a href="https://auth.geeksforgeeks.org/user/salmasaa02" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="salmasaa02" height="30" width="40" /></a>
 </p>
 
-<details>
-  <summary><b>My GitHub Stats</b></summary>
-    <a href="https://github.com/dat-adi/dat-adi">
-<p align = "center">
-  <img  src = "https://github-readme-stats.vercel.app/api?username=IdealisticINTJ&show_icons=true&theme=algolia&line_height=27">
-</p>
-
-<p align = "center">
- <img  src="https://github-readme-streak-stats.herokuapp.com/?user=IdealisticINTJ&show_icons=true&locale=en&layout=compact&theme=algolia&line_height=0" />
-</p> 
-
-<p align = "center">
- <img src="https://activity-graph.herokuapp.com/graph?username=IdealisticINTJ&theme=react-dark">
-</p> 
-
                                                                                                                                     
 <!--
 **IdealisticINTJ/IdealisticINTJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
