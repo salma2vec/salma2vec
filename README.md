@@ -7,14 +7,12 @@
 - 🧮 I'm currently working on Front-End Web Development with a UX / UI focus.
 - :pineapple: I’m open for collaborations on projects, hackathons and novel research ideas!
 - 🤔 I am looking for help with React JS and GUI Applications.
-- 💬 Ask me about Life, the Universe and Everything..."Why?"
 - ⚡ Fun fact: I have a Guinness World Records Certificate in my name! 
                                                                  
 ### Interests <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40">
 - :chart_with_upwards_trend: Artificial Intelligence | Data Science | Mobile App Development | UI design | Problem Solving 
-- :bulb: Reading philosophy and business self-help books.
-- :purple_heart: Social Causes I am passionate about: Mental health awareness and Animal welfare.
-- 🧠 A Cognitive Neuroscience, Astronomy and Philosophy aficionado
+- :sparkles:  Out of work, find me reading Astronomy and Philosophy, watching random Cat Videos or sketching.
+
 
 ### Random Quote
 “If you have built castles in the air, your work need not be lost; that is where they should be. Now, put the foundations under them.” 
