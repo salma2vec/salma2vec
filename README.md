@@ -11,7 +11,7 @@
 - ⚡ Fun fact: I have a Guinness World Records Certificate in my name! 
                                                                  
 ### Interests <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40">
-- :chart_with_upwards_trend: Machine Learning | Data Science | Mobile App Development | Competitive Programming | Problem Solving 
+- :chart_with_upwards_trend: Artificial Intelligence | Data Science | Mobile App Development | UI design | Problem Solving 
 - :bulb: Reading philosophy and business self-help books.
 - :purple_heart: Social Causes I am passionate about: Mental health awareness and Animal welfare.
 - 🧠 A Cognitive Neuroscience, Astronomy and Philosophy aficionado
