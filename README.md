@@ -11,7 +11,7 @@
                                                                  
 ### Interests <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40">
 - :chart_with_upwards_trend: Artificial Intelligence | Data Science | Mobile App Development | UI design | Problem Solving 
-- :sparkles:  Out of work, find me reading Astronomy and Philosophy, watching random Cat Videos or sketching.
+- :sparkles:  Out of work, you'll find me reading up on Astronomy and Philosophy, watching random Cat Videos or sketching in my spare time.
 
 
 ### Random Quote
