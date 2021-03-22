@@ -2,13 +2,21 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=idealisticintj&label=Profile%20views&color=0e75b6&style=flat" alt="idealisticintj" /> </p>
 
 ## I'm [Salma-aka Idealistic INTJ](https://www.linkedin.com/in/salma7/). 
+**I'm currently a freshman pursuing Bachelor of Technology focused in Computer Science and Engineering from Vellore Institute of Technology, Amravati. I am a inquisitive learner accelerating my skill-set in Python, Java, Front-End Web Development, Machine learning, MERN, Javascript and Flutter. My activities span various domains and I am always open to exploring and learning at a pace faster than and beyond the stream of my current education. I am actively involved in a lot of organizations - college clubs, hackathons and tech communities. I love experimenting with and developing solutions using new and challenging technologies. I find ideating and working on real-world projects thrilling!**
 
-- 🌱 I’m currently learning Deep Learning fundamentals and trying to better my DSA skills. <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="33">
+- 🍀 I'm currently learning Deep Learning fundamentals and trying to better my DSA skills. <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="33">
 - 🧮 I'm currently working on Front-End Web Development with a UX / UI focus.
 - :pineapple: I’m open for collaborations on projects, hackathons and novel research ideas!
 - 🤔 I am looking for help with React JS and GUI Applications.
 - ⚡ Fun fact: I have a Guinness World Records Certificate in my name! 
-                                                                 
+
+### ✔️ My skills include:
+- Languages: C, C++, Python and Java
+- Frontend: React JS, HTML, CSS (Neophyte stage)
+- Data Structures and Algorithms: Competitive programming, OOPS, Problem solving
+- Machine Learning, Deep Learning, Linear Algebra and Statistics (Basic)
+- Software Engineering tools: VCS, , IntelliJ IDEA, Git and GitHub & MATLAB
+
 ### Interests <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40">
 - :chart_with_upwards_trend: Artificial Intelligence | Data Science | Mobile App Development | UI design | Problem Solving 
 - :sparkles:  Out of work, you'll find me reading up on Astronomy and Philosophy, watching random Cat Videos or sketching in my spare time.
