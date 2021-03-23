@@ -10,7 +10,7 @@
 - 🤔 I am looking for help with React JS and GUI Applications.
 - ⚡ Fun fact: I have a Guinness World Records Certificate in my name! 
 
-### ✔️ My skills include:
+### ✔️ My skills
 - Languages: C, Python and Java
 - Frontend: React JS, HTML, CSS (Neophyte stage)
 - Data Structures and Algorithms: Competitive programming, OOPS, Problem solving
