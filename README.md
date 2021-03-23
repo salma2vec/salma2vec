@@ -23,8 +23,8 @@
 
 
 ### A quote that describes me
-**“Rest in reason; Move in Passion.”**
 
+“Rest in reason; Move in Passion.”
 ~ Khalil Gibran
 
 <h3 align="left">Connect with me <img src="https://user-images.githubusercontent.com/53649201/99296951-8ef68900-286d-11eb-9bf3-fdb6cf13b585.gif" height="32px"></h3>
