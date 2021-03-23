@@ -22,9 +22,9 @@
 - :sparkles:  Out of work, you'll find me reading up on Astronomy and Philosophy, watching random Cat Videos or sketching in my spare time.
 
 
-### Random Quote
-“If you have built castles in the air, your work need not be lost; that is where they should be. Now, put the foundations under them.” 
-~ Henry David Thoreau 
+### A quote that describes me
+“Rest in reason; Move in Passion.” 
+~ Khalil Gibran
 
 <h3 align="left">Connect with me <img src="https://user-images.githubusercontent.com/53649201/99296951-8ef68900-286d-11eb-9bf3-fdb6cf13b585.gif" height="32px"></h3>
 <p align="left">
