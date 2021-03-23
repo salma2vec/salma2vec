@@ -11,7 +11,7 @@
 - ⚡ Fun fact: I have a Guinness World Records Certificate in my name! 
 
 ### ✔️ My skills include:
-- Languages: C, C++, Python and Java
+- Languages: C, Python and Java
 - Frontend: React JS, HTML, CSS (Neophyte stage)
 - Data Structures and Algorithms: Competitive programming, OOPS, Problem solving
 - Machine Learning, Deep Learning, Linear Algebra and Statistics (Basic)
