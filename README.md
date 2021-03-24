@@ -5,7 +5,7 @@
 **I'm currently a freshman pursuing Bachelor of Technology focused in Computer Science and Engineering from Vellore Institute of Technology, Amravati. I am an inquisitive learner keen on accelerating my skill-set in Python, Java, Front-End Web Development, Machine learning, MERN, Javascript and Flutter. My activities span various domains and I am always open to exploring and learning at a pace faster than and beyond the stream of my current education. I am actively involved in many organizations - college clubs, hackathons and tech communities. I love experimenting with and developing solutions using new and challenging technologies; I find ideating and working on real-world projects thrilling!**
 
 - 🍀 I'm currently learning Deep Learning fundamentals and trying to better my DSA skills. <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="33">
-- 🧮 I'm currently working on Front-End Web Development with a UX / UI focus.
+- 🧮 I'm working on Front-End Web Development with a UX / UI focus.
 - :pineapple: I’m open for collaborations on projects, hackathons and novel research ideas!
 - 🤔 I am looking for help with React JS and GUI Applications.
 - ⚡ Fun fact: I have a Guinness World Records Certificate in my name! 
