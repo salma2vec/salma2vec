@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=idealisticintj&label=Profile%20views&color=e6325c&style=flat" alt="idealisticintj" /> </p>
 
 ## I'm [Salma-aka Idealistic INTJ](https://www.linkedin.com/in/salma7/). 
-**I'm currently a freshman pursuing Bachelor of Technology focused in Computer Science and Engineering from Vellore Institute of Technology, Amravati. I am an inquisitive learner keen on accelerating my skill-set in Python, Java, Front-End Web Development, Machine learning, MERN, Javascript and Flutter. My activities span various domains and I am always open to exploring and learning at a pace faster than and beyond the stream of my current education. I am actively involved in many organizations - college clubs, hackathons and tech communities. I love experimenting with and developing solutions using new and challenging technologies; I find ideating and working on real-world projects thrilling!**
+**I'm currently a freshman pursuing Bachelor of Technology focused in Computer Science and Engineering from Vellore Institute of Technology, Amravati. I am an inquisitive learner keen on accelerating my skill-set in Python, Java, Front-End Web Development, Machine learning, MERN, Javascript and Flutter.**
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
 
 - 🍀 I'm currently learning Deep Learning fundamentals and trying to better my DSA skills.
