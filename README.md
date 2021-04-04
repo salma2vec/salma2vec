@@ -16,7 +16,7 @@
 - Frontend: React JS, HTML, CSS (Neophyte stage)
 - Data Structures and Algorithms: Competitive programming, OOPS, Problem solving
 - Machine Learning, Deep Learning, Linear Algebra and Statistics (Basic)
-- Software Engineering tools: VSC, IntelliJ IDEA, Git and GitHub, & MATLAB
+- Software Development tools: VSC, IntelliJ IDEA, Git and GitHub, & MATLAB
 
 ### Interests <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40">
 - :chart_with_upwards_trend: Artificial Intelligence | Data Science | Front End Development | UI design | Problem Solving 
