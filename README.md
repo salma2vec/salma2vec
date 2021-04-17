@@ -28,10 +28,8 @@
 ~ Khalil Gibran
 
 <h3 align="left">Connect with me <img src="https://user-images.githubusercontent.com/53649201/99296951-8ef68900-286d-11eb-9bf3-fdb6cf13b585.gif" height="32px"></h3>
-<p align="left">
-<a href="https://dev.to/idealisticintj" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="idealisticintj" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/salma7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="salma7" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/salmasaa02" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="salmasaa02" height="30" width="40" /></a>
+<p align="center">
+<a href="https://dev.to/idealisticintj"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" width="60" height="60"></a>&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/salma7/"><img src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png" width="60" height="60"></a>&nbsp;&nbsp;&nbsp;<a href="https://www.hackerrank.com/salmasaa02/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Hackerrank_meaningful_logo.svg/1024px-Hackerrank_meaningful_logo.svg.png" width="60" height="60"></a>&nbsp;&nbsp;&nbsp;<a href="https://www.leetcode.com/salmasaa02"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" width="60" height="60"></a>&nbsp;&nbsp;&nbsp;<a href="https://www.twitter.com/IdealisticINTJ"><img src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-twitter-circle-512.png" width="60" height="60"></a>
 </p>
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
 
