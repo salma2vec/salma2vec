@@ -9,7 +9,6 @@
 - 🧮 I'm working on Front-End Web Development with a UX / UI focus.
 - :pineapple: I’m open for collaborations on projects, hackathons and novel research ideas!
 - 🤔 I am looking for help with React JS and GUI Applications.
-- ⚡ Fun fact: I have a Guinness World Records Certificate in my name! 
 
 ### Interests <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40">
 - :chart_with_upwards_trend: Artificial Intelligence | Data Science | Front End Development | UI design | Product Innovation
