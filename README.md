@@ -5,7 +5,7 @@
 **I'm currently a freshman pursuing a Bachelor of Technology focused in Computer Science and Engineering from Vellore Institute of Technology, Amravati. I am an inquisitive learner keen on accelerating my skill-set in Python, Java, Front-End Web Development, Machine learning, MERN, Javascript and Flutter.**
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
 
-- 🍀 I'm currently learning Deep Learning fundamentals and trying to better my DSA skills.
+- 🍀 I'm currently learning Cloud Computing and trying to better my DSA skills.
 - 🧮 I'm working on Front-End Web Development with a UX / UI focus.
 - :pineapple: I’m open for collaborations on projects, hackathons and novel research ideas!
 - 🤔 I am looking for help with React JS and GUI Applications.
