@@ -1,7 +1,7 @@
 # Greetings, fellow Earthling! 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=idealisticintj&label=Profile%20views&color=e6325c&style=flat" alt="idealisticintj" /> </p>
 
-## I'm [Salma-aka Idealistic INTJ](https://www.linkedin.com/in/salma7/). 
+## I'm [Salma aka Idealistic INTJ](https://www.linkedin.com/in/salma7/). 
 **I'm currently a freshman pursuing a Bachelor of Technology focused in Computer Science and Engineering from Vellore Institute of Technology, Amravati. I am an inquisitive learner always keen on optimizing my learning experiences and enhancing my skill set, while striving for innovation.**
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
 
