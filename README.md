@@ -12,7 +12,7 @@
 
 ### Interests <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40">
 - :chart_with_upwards_trend: Artificial Intelligence | Data Science | Front End Development | UI design | Product Innovation
-- :sparkles:  Out of work, you'll find me reading up on Astronomy and Philosophy, watching random Cat Videos or sketching in my spare time.
+- :sparkles:  Out of work, you'll find me reading up on astronomy and philosophy, watching random cat videos or sketching in my spare time.
 
 ### A quote that describes me
 
