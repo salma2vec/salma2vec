@@ -6,7 +6,7 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
 
 - 🍀 I'm currently learning Cloud Computing and trying to better my DSA skills.
-- 🧮 I'm working on Front-End Web Development with a UX / UI focus.
+- 🧮 I'm working on Front-End Web Development with a focus on UI Design.
 - :pineapple: I’m open for collaborations on projects, hackathons and novel research ideas!
 - 🤔 I am looking for help with React JS and GUI Applications.
 
