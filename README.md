@@ -8,7 +8,7 @@
 - 🍀 I'm currently learning Cloud Computing and trying to better my DSA skills.
 - 🧮 I'm working on Front-End Web Development with a focus on UI Design.
 - :pineapple: I’m open for collaborations on projects, hackathons and novel research ideas!
-- 🤔 I am looking for help with React JS and GUI Applications.
+- 🤔 I am looking for help with React JS and DApps.
 
 ### Interests <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40">
 - :chart_with_upwards_trend: Deep Learning | Data Science | Front End Development | UI design | Product Innovation
