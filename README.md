@@ -30,6 +30,8 @@
   <summary><b>My GitHub Stats</b></summary>
     <a href="https://github.com/IdealisticINTJ/IdealisticINTJ">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=IdealisticINTJ&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=0e1117&icon_color=ffffff&bg_color=e6325c" alt="Salma's GitHub Stats" />
+      
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=idealisticintj&bg_color=e6325c&color=ffffff&line=ffffff&point=0e1117&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
     </a>
 </details>
                                                                                                                                   
