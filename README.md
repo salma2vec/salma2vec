@@ -14,7 +14,7 @@
 - :chart_with_upwards_trend: Deep Learning | Data Science | Front End Development | UI design | Product Innovation
 - :sparkles:  Out of work, you'll find me reading up on astronomy and philosophy, watching random cat videos or sketching in my spare time.
 
-### A quote that describes me
+### A quote that reflects me
 
 “Rest in reason; Move in Passion.”
 ~ Khalil Gibran
