@@ -11,7 +11,7 @@
 - 🤔 I am looking for help with React JS and DApps.
 
 ### Interests <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40">
-- :chart_with_upwards_trend: Deep Learning | Data Analysis | Front End Development | UI design | Product Innovation
+- :chart_with_upwards_trend: Deep Learning | Data Analysis | Web Development | UI/UX design | Product Innovation
 - :sparkles:  Out of work, you'll find me reading up on astronomy and philosophy, watching random cat videos or sketching in my spare time.
 
 ### A quote that reflects me
