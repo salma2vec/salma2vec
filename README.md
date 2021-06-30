@@ -15,7 +15,7 @@
 - :sparkles:  Out of work, you'll find me reading up on astronomy and philosophy, watching random cat videos or sketching in my spare time.
 
 
-<h3 align="left">Connect</h3>
+<h3 align="left">Connect with me</h3>
 
 <p align="center"> 
 <a href="https://dev.to/idealisticintj"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" width="40" height="40"></a>&nbsp;&nbsp;&nbsp;<a href="https://discord.bio/p/idealisticintj"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" width="40" height="40"></a>&nbsp;&nbsp;&nbsp;<a href="https://www.hackerrank.com/salmasaa02/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Hackerrank_meaningful_logo.svg/1024px-Hackerrank_meaningful_logo.svg.png" width="40" height="40"></a>&nbsp;&nbsp;&nbsp;<a href="https://www.leetcode.com/salmasaa02"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" width="40" height="40"></a>
