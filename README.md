@@ -1,7 +1,5 @@
 # Greetings, fellow Earthling! 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=idealisticintj&label=Profile%20views&color=e6325c&style=flat" alt="idealisticintj" /> </p>
-
-## I'm [Salma aka Idealistic INTJ](https://www.linkedin.com/in/salma7/). 
+### I'm [Salma aka Idealistic INTJ](https://www.linkedin.com/in/salma7/). 
 **I'm currently a freshman pursuing a Bachelor of Technology focused in Computer Science and Engineering from Vellore Institute of Technology, Amravati. I am an inquisitive learner always keen on optimizing my learning experiences and enhancing my skill set, while striving for innovation.**
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
 
@@ -30,6 +28,8 @@
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=idealisticintj&bg_color=e6325c&color=ffffff&line=ffffff&point=0e1117&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
     </a>
 </details>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=idealisticintj&label=Profile%20views&color=e6325c&style=flat" alt="idealisticintj" /> </p>
                                                                                                                                   
 <!--
 **IdealisticINTJ/IdealisticINTJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
