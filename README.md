@@ -1,19 +1,19 @@
 # Greetings, fellow Earthling! 
-### I'm [Salma aka Idealistic INTJ](https://www.linkedin.com/in/salma7/). 
-**I'm currently a freshman pursuing a Bachelor of Technology focused in Computer Science and Engineering from Vellore Institute of Technology, Amravati. I am an inquisitive learner always keen on optimizing my learning experiences and enhancing my skill set, while striving for innovation.**
+``Name: Salma ``
+
+  ``Education: Computer Science Engineering undergrad, VIT-AP ``
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
 
-- 🍀 I'm currently learning Cloud Computing and trying to better my DSA skills.
-- 🧮 I'm working on Front-End Web Development with a focus on UI Design.
+- 🍀 I'm currently learning text mining algorithms using natural language processing.
+- 🧮 I'm working on front-end web development with a focus on UI Design.
 - :pineapple: I’m open for collaborations on projects, hackathons and novel research ideas!
-- 🤔 I am looking for help with React JS and DApps.
 
 ### Interests <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40">
-- :chart_with_upwards_trend: Deep Learning | Data Analysis | Web Development | UI/UX design | Product Innovation
+- :chart_with_upwards_trend: Deep Learning | Data Analysis | Natural Language Processing | UI/UX design | Product Innovation
 - :sparkles:  Out of work, you'll find me reading up on astronomy and philosophy, watching random cat videos or sketching in my spare time.
 
 
-<h3 align="left">Connect with me</h3>
+<h3 align="left">Connect with me:</h3>
 
 <p align="center"> 
 <a href="https://dev.to/idealisticintj"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" width="40" height="40"></a>&nbsp;&nbsp;&nbsp;<a href="https://discord.bio/p/idealisticintj"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" width="40" height="40"></a>&nbsp;&nbsp;&nbsp;<a href="https://www.hackerrank.com/salmasaa02/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Hackerrank_meaningful_logo.svg/1024px-Hackerrank_meaningful_logo.svg.png" width="40" height="40"></a>&nbsp;&nbsp;&nbsp;<a href="https://www.leetcode.com/salmasaa02"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" width="40" height="40"></a>
