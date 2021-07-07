@@ -1,7 +1,7 @@
 # Greetings, fellow Earthling! 
 ``Name: Salma ``
 
-  ``Education: Computer Science Engineering undergrad, VIT-AP ``
+  ``Education: CSE'24, VIT-AP ``
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
 
 - 🍀 I'm currently learning text mining algorithms using natural language processing.
