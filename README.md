@@ -1,4 +1,4 @@
-# Greetings, fellow Earthling! 
+## Greetings, fellow Earthling! 
 ``Name: Salma ``
 
   ``Education: CSE'24, VIT-AP ``
