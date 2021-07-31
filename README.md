@@ -5,7 +5,7 @@
 
 - 🍀 I'm currently learning **text mining algorithms using natural language processing.**
 - 🧮 I'm working on **front-end web development with a focus on UI Design.**
-- 👩‍🏫 Ask me about **Machine Learning, EDA, Visual Design and Open Source.**
+- :speech_balloon: Ask me about **Machine Learning, EDA, Visual Design and Open Source.**
 - :pineapple: I’m open for collaborations on **projects, hackathons and novel research ideas!**
 
 ### Interests <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40">
