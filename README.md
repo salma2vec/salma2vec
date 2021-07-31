@@ -1,7 +1,7 @@
 ## Greetings, fellow Earthling! 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
 
-## :point_right: [Me](https://bio.link/salmasha)
+## :point_right: [Salma here.](https://bio.link/salmasha)
 
 - 🍀 I'm currently learning **text mining algorithms using natural language processing.**
 - 🧮 I'm working on **front-end web development with a focus on UI Design.**
