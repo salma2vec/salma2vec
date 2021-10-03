@@ -12,6 +12,9 @@
 - :pineapple: I’m open for collaborations on **projects, hackathons and novel research ideas!**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=idealisticintj&label=Profile%20views&color=42C1C8&style=flat" alt="idealisticintj" /> </p>
-                                                                                                                                  
+
+
+![Salma's GitHub stats](https://github-readme-stats.vercel.app/api?username=IdealisticINTJ&show_icons=true&theme=cobalt)
+                                                                                              
 <!--
 **IdealisticINTJ/IdealisticINTJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
