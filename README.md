@@ -2,7 +2,7 @@
 <img src="https://user-images.githubusercontent.com/42115530/92640221-9728ca00-f2fa-11ea-8994-c72b26e937de.gif" align="center"/>
 </div>
 <h1 align="center">I'm Salma Shaik</h1>
-<p> <center>The areas of research I gravitate towards are Neural Networks, Computer Vision, Natural Language Processing, Image Processing and Deep Learning Architectures. </center> </p>
+<p> <center>The areas of research I gravitate towards are Neural Networks, Computer Vision, Natural Language Processing, Image Processing and Deep Learning Architectures. I harbour myraids of interests which include neuroscience, trans-humanism, med-tech, social computing, human-computer interaction, AI research, consumer technology and startups!</center> </p>
 
 <img height="25" src="https://komarev.com/ghpvc/?username=IdealisticINTJ&color=blue" />
 <a href="https://github.com/ruch798">
@@ -14,7 +14,7 @@
 - 🤝 I’m looking to collaborate on **projects, hackathons and novel research ideas!**
 - 💬 Ask me about **Machine Learning, Computer Vision, Natural Language Processing and Data Analysis.**
 - ⚡ Fun fact: I just really like brains. **Studying brains.**
-- :bulb: Love discussing about anything pertinent to **neuroscience, trans-humanism, longevity, med-tech, human-computer interaction, consumer technology or startups!**
+
 ### Tech Stack
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
