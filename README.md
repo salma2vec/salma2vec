@@ -2,7 +2,7 @@
 <img src="https://user-images.githubusercontent.com/42115530/92640221-9728ca00-f2fa-11ea-8994-c72b26e937de.gif" align="center"/>
 </div>
 <h1 align="center">I'm Salma Shaik</h1>
-<p> <center>The domains I gravitate towards are Neural Networks, Computer Vision, Natural Language Processing, Image Processing and Deep Learning Architectures. I harbour myriads of interests which include neuroscience, genomics, med-tech, social computing, human-computer interaction, AI research, consumer technology and startups!</center> </p>
+<p> <center>The domains I gravitate towards are Neural Networks, Computer Vision, Natural Language Processing, Image Processing and Deep Learning Architectures. I have myriads of interests which include neuroscience, genomics, med-tech, social computing, human-computer interaction, AI research, consumer technology and startups!</center> </p>
 
 <img height="25" src="https://komarev.com/ghpvc/?username=IdealisticINTJ&color=blue" />
 <a href="https://github.com/ruch798">
