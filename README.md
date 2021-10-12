@@ -14,7 +14,7 @@
 - 🤝 I’m looking to collaborate on **projects, hackathons and novel research ideas!**
 - 💬 Ask me about **Machine Learning, Computer Vision, Natural Language Processing and Data Analysis.**
 - ⚡ Fun fact: I just really like brains. **Studying brains.**
-
+- :bulb: Love discussing about anything pertinent to **neuroscience, trans-humanism, longevity, med-tech, human-computer interaction, consumer technology or startups!**
 ### Tech Stack
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
