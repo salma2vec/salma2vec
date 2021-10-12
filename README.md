@@ -23,9 +23,7 @@
     <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=whit"/>
   </a>
   <a href="https://docs.opencv.org/master/index.html">
-    <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white"/>
-  </a>![image](https://user-images.githubusercontent.com/65449934/136921659-05289c49-8cc2-4caf-8699-9f7029f41d22.gif)
-
+    <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white"/> </a>
   <a href="https://jupyter.org/">
     <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"/>
   </a>  <a href="https://www.tensorflow.org/">
