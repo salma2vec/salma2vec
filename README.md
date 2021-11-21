@@ -2,7 +2,7 @@
 <img src="https://user-images.githubusercontent.com/42115530/92640221-9728ca00-f2fa-11ea-8994-c72b26e937de.gif" align="center"/>
 </div>
 <h1 align="center">I'm Salma Shaik</h1>
-<p> <center>I gravitate towards Neural Networks, Computer Vision, Natural Language Processing, Image Processing and Deep Learning Architectures. I have myriads of interests which include neuroscience, AI predictive medical diagnostics, human-computer interaction, AI for social good, transhumanism, consumer technology and startups!</center> </p>
+<p> <center>I gravitate towards Neural Networks, Computer Vision, Natural Language Processing, Image Processing and Deep Learning Architectures. I have myriads of interests which include neuroscience, health informatics, human-computer interaction, AI for social good, transhumanism, consumer technology and startups!</center> </p>
 
 <img height="25" src="https://komarev.com/ghpvc/?username=IdealisticINTJ&color=blue" />
 <a href="https://github.com/ruch798">
