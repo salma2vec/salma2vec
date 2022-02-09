@@ -1,43 +1,5 @@
-<div align="center">
-<img src="https://user-images.githubusercontent.com/42115530/92640221-9728ca00-f2fa-11ea-8994-c72b26e937de.gif" align="center"/>
-</div>
-<h1 align="center">I'm Salma Shaik</h1>
-<p> <center>I gravitate towards Neural Networks, Computer Vision, Natural Language Processing, Image Processing and Deep Learning Architectures. I have myriads of interests which include neuroscience, health informatics, human-computer interaction, AI for social good, transhumanism, consumer technology and startups!</center> </p>
+<h1>Hey Explorer, I am <a href="https://IdealisticINTJ.github.io/">Salma</a>!<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
-<img height="25" src="https://komarev.com/ghpvc/?username=IdealisticINTJ&color=blue" />
-<a href="https://github.com/ruch798">
-</a>
-</p>
-
-- 🔭 I’m currently working on **real-time eye tracking using object detection.**
-- 🌱 I’m currently learning **text mining algorithms using natural language processing.**
-- 🤝 I’m looking to collaborate on **projects, hackathons and novel research ideas!**
-- 💬 Ask me about **Machine Learning, Computer Vision, Natural Language Processing and Data Analysis.**
-- ⚡ Fun fact: I just really like brains. **Studying brains.**
-
-### Tech Stack
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<p align="left"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-A020F0?&style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/C%2B%2B-29b6f6?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> <a href="https://www.r-project.org/">
-    <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=whit"/>
-  </a>
-  <a href="https://docs.opencv.org/master/index.html">
-    <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white"/> </a>
-  <a href="https://jupyter.org/">
-    <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"/>
-  </a>  <a href="https://www.tensorflow.org/">
-    <img src="https://img.shields.io/badge/Tensorflow-F37654.svg?style=for-the-badge&logo=Tensorflow&logoColor=white"/>
-  </a>  <a href="https://www.anaconda.com/">
-    <img src="https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white"/>
-  </a> <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/> <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/> <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-5723db?style=for-the-badge&logo=mysql&logoColor=white"/> 
-</p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=IdealisticINTJ&show_icons=true" alt="IdealisticINTJ" /></p>
-
-
-
-## Connect with me  
 <div align="center">
 <a href="https://github.com/IdealisticINTJ" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -54,15 +16,30 @@
 <a href="https://linkedin.com/in/salma7" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/idealisticintj" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
+	<a href="https://leetcode.com/salmasaa02/"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt = "LeetCode"></a>
 <a href="https://medium.com/@IdealisticINTJ" target="_blank">
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
-</a>  
+</a> 
+<a href="https://www.kaggle.com/IdealisticINTJ"><img src=https://img.shields.io/badge/kaggle-19BDFF.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
+</a>
 </div>  
   
 
+<p> I gravitate towards Neural Networks, Computer Vision, Natural Language Processing, Image Processing and Deep Learning Architectures. I have myriads of interests which include neuroscience, health informatics, human-computer interaction, AI for social good, transhumanism and startups! </p>
+
+
+- 🔭 I’m currently working on **real-time Yoga pose estimation.**
+- 🌱 I’m currently learning **remote sensing image processing and Rust.**
+- 🤝 I’m looking to collaborate on **projects, hackathons and novel research ideas!**
+- 💬 Ask me about **Machine Learning, Computer Vision, Natural Language Processing and Data Analysis.**
+- 📫 How to reach me: **salmasaa02@gmail.com**
+- ⚡ Fun fact: I just really like brains. **Studying brains.**
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=IdealisticINTJ&show_icons=true" alt="IdealisticINTJ" /></p>
+
+<img height="25" src="https://komarev.com/ghpvc/?username=IdealisticINTJ&color=blue" />
+<a href="https://github.com/ruch798">
+</a>
                                                                                               
 <!--
 **IdealisticINTJ/IdealisticINTJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
