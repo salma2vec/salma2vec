@@ -25,13 +25,13 @@
 </div>  
   
 
-<p> I gravitate towards Neural Networks, Computer Vision, Natural Language Processing, Image Processing and Deep Learning Architectures. I have myriads of interests which include neuroscience, health informatics, human-computer interaction, AI for social good, transhumanism and startups! </p>
+<p> I gravitate towards Neural Networks, Computer Vision, and Natural Language Processing. Always up to discuss on neuroscience, health informatics, human-computer interaction, AI for social good, transhumanism and startups! </p>
 
 
 - 🔭 I’m currently working on **real-time Yoga pose estimation.**
 - 🌱 I’m currently learning **remote sensing image processing and Rust.**
 - 🤝 I’m looking to collaborate on **projects, hackathons and novel research ideas!**
-- 💬 Ask me about **Machine Learning, Computer Vision, Natural Language Processing and Data Analysis.**
+- 💬 Ask me about **Machine Learning, Computer Vision, and Natural Language Processing.**
 - 📫 How to reach me: **salmasaa02@gmail.com**
 - ⚡ Fun fact: I just really like brains. **Studying brains.**
 
