@@ -1,4 +1,4 @@
-<h1>Hey Explorer, I am <a href="https://idealisticintj.github.io/">Salma</a>!<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+<h1>Hey Explorer, I am <a href="https://twitter.com/IdealisticINTJ">Salma</a>!<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
 <div align="center">
 <a href="https://github.com/IdealisticINTJ" target="_blank">
