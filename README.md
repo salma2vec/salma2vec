@@ -35,7 +35,6 @@
 - 📫 How to reach me: **salmasaa02@gmail.com**
 - ⚡ Fun fact: I just really like brains. **Studying brains.**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=IdealisticINTJ&show_icons=true" alt="IdealisticINTJ" /></p>
 
 <img height="25" src="https://komarev.com/ghpvc/?username=IdealisticINTJ&color=blue" />
 <a href="https://github.com/ruch798">
