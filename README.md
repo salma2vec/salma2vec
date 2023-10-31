@@ -1,44 +1,70 @@
-<h1>Hey Explorer, I am <a href="https://twitter.com/IdealisticINTJ">Salma</a>!<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
-<div align="center">
-<a href="https://github.com/IdealisticINTJ" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/IdealisticINTJ" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://dev.to/idealisticintj" target="_blank">
-<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
-</a>
-<a href="https://stackoverflow.com/users/15240145" target="_blank">
-<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/salma7" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-	<a href="https://leetcode.com/salmasaa02/"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt = "LeetCode"></a>
-<a href="https://medium.com/@IdealisticINTJ" target="_blank">
-<img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
-</a> 
-<a href="https://www.kaggle.com/IdealisticINTJ"><img src=https://img.shields.io/badge/kaggle-19BDFF.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
-</a>
-</div>  
-  
+![banner](https://github.com/IdealisticINTJ/IdealisticINTJ/assets/65449934/b03a3821-5729-4b87-a290-59765340d992)
 
-<p> I gravitate towards Neural Networks, Computer Vision, and Natural Language Processing. Always up to discuss on neuroscience, health informatics, human-computer interaction, AI for social good, transhumanism and startups! </p>
+## About
+
+I am Salma Shaik. I am a fourth-year undergraduate student at [VIT University](https://www.vitap.ac.in). I'm a machine learning engineer and developer advocate based in India, having worked at Microsoft and scaled communities at [Google Developers](https://gdsc.community.dev/vellore-institute-of-technology-vit-vellore/). My other interests aside from Machine Learning are Backend Development and Distributed Systems. Always up to discuss on diffusion models, developer tools, health informatics, human-computer interaction, transhumanism, and literature!
+
+<table>
+  <tr>
+      <td><a href="https://github.com/IdealisticINTJ"><img src="https://img.shields.io/github/followers/IdealisticINTJ.svg?label=GitHub&style=social" alt="GitHub"></a></td>
+      <td><a href="https://twitter.com/IdealisticINTJ"><img src="https://img.shields.io/twitter/follow/IdealisticINTJ?label=Twitter&style=social" alt="Twitter"></a</td>
+      <td><a href="https://www.linkedin.com/in/IdealisticINTJ"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a></td>
+      <td><a href="mailto:salmasaa02@gmail.com"><img src="https://img.shields.io/badge/Gmail--_.svg?style=social&logo=gmail" alt="Gmail"></a></td>
+  </tr>
+</table>
 
 
-- 🔭 I’m currently working on **real-time Yoga pose estimation.**
-- 🌱 I’m currently learning **remote sensing image processing and Rust.**
-- 🤝 I’m looking to collaborate on **projects, hackathons and novel research ideas!**
-- 💬 Ask me about **Machine Learning, Computer Vision, and Natural Language Processing.**
-- 📫 How to reach me: **salmasaa02@gmail.com**
-- ⚡ Fun fact: I just really like brains. **Studying brains.**
+## Timeline
+
+- Community Manager, [Koii Network](https://www.koii.network/) (August 2023 - Present)
+- Technical Content Writer and Developer Advocate Intern, [AssetMantle](assetmantle.one) (April 2023 - September 2023)
+- Differential Privacy Apprentice, [OpenMined](https://github.com/OpenMined) (July 2022 - Present)
+- Software Development Engineer Intern, [Microsoft India](https://apps.microsoft.com/home?hl=en-us&gl=US) (May 2023 – July 2023)
+- Computational Bio-science Research Intern, [Carnegie Mellon University](https://xulabs.github.io/) (Aug 2022 - May 2023)
+- Explore ML Facilitator, [Google Crowdsource](https://events.withgoogle.com/explore-ml-crowdsource/facilitator-program/) (October 2022 - October 2023)
+- Community Lead, [Google Developers Student Club VIT-AP](https://gdsc.community.dev/vellore-institute-of-technology-vit-vellore/) (October 2022 - August 2023)
+- Computer Vision Consultant, [Beneufit Inc.](https://www.beneufit.com/) (June 2022 – September 2022)
+- Computer Vision Engineer, [Artenal](http://artenal.ca/) (November 2021 – May 2022)
+- Machine Learning Researcher, [PathCheck Foundation](https://www.pathcheck.org/) (February 2022 - May 2022)
+- Undergraduate Student Researcher, [Artificial Intelligence and Robotics Center](https://vitap.ac.in/air-center) (February 2022 - March 2023)
+- Junior Machine Learning Engineer, [Omdena](https://omdena.com/) (November 2021 – February 2022)
+- Machine Learning Intern, [Codebugged AI](https://codebugged.com/) (September 2021 - November 2021)
+- Vice President, [Students for the Exploration and Development of Space VIT](https://sedsvit.in/) (November 2021 - October 2022)
 
 
-<img height="25" src="https://komarev.com/ghpvc/?username=IdealisticINTJ&color=blue" />
-<a href="https://github.com/ruch798">
-</a>
+## I’m currently working on
+* Exploring techniques to ensure Privacy at the participant level in Federated Learning setups
+* Pipeline for 3D Cell Segmentation
+* My podcast where I plan to stream Computer Science tutorials and dissect the latest research papers
+
+
+## I’m looking to collaborate on
+* For doing projects on **Computer Vision (especially on Medical Science)**
+* **Research Papers**. and **Publications**
+* For building interesting shit with fun heckers!
+
+## Github Stats
+
+[![Salma's GitHub stats](https://github-readme-stats.vercel.app/api?username=idealisticintj&theme=transparent&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+<br>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=idealisticintj&color=0759EA" alt="salma" /> </p>
+
+## Social
+
+1. [LinkedIn](https://www.linkedin.com/in/salma7/)
+2. [Portfolio](https://www.x.com)
+3. [YouTube](https://www.youtube.com/channel/UCLFx0nDtHmQW3B8AH7opKLg)
+4. [LeetCode](https://leetcode.com/salmasaa02/)
+5. [Instagram](https://www.instagram.com/idealisticintj)
+6. [Twitter](https://twitter.com/idealisticintj)
+7. [Kaggle](https://www.kaggle.com/IdealisticINTJ)
+8. [Substack](https://idealisticintj.substack.com/)
+
+
+
+
                                                                                               
 <!--
 **IdealisticINTJ/IdealisticINTJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
