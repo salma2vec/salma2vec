@@ -53,14 +53,15 @@ I am Salma Shaik. I am a fourth-year undergraduate student at [VIT University](h
 
 ## Social
 
-1. [LinkedIn](https://www.linkedin.com/in/salma7/)
-2. [Portfolio](https://www.x.com)
-3. [YouTube](https://www.youtube.com/channel/UCLFx0nDtHmQW3B8AH7opKLg)
-4. [LeetCode](https://leetcode.com/salmasaa02/)
-5. [Instagram](https://www.instagram.com/idealisticintj)
+1. [LinkedIn](https://www.linkedin.com/in/salma7)
+2. [Polywork](https://www.polywork.com/salma_shaik)
+3. [Portfolio](https://www.x.com)
+4. [YouTube](https://www.youtube.com/channel/UCLFx0nDtHmQW3B8AH7opKLg)
+5. [LeetCode](https://leetcode.com/salmasaa02/)
 6. [Twitter](https://twitter.com/idealisticintj)
 7. [Kaggle](https://www.kaggle.com/IdealisticINTJ)
 8. [Substack](https://idealisticintj.substack.com/)
+
 
 
 
