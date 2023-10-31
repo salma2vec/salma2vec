@@ -40,9 +40,9 @@ I am Salma Shaik. I am a fourth-year undergraduate student at [VIT University](h
 
 
 ## I’m looking to collaborate on
-* For doing projects on **Computer Vision (especially on Medical Science)**
+* Doing projects on **Computer Vision (especially on Medical Science)**
 * **Research Papers** and **Publications**
-* For building interesting shit with fun heckers!
+* Building interesting shit with fun heckers!
 
 ## Github Stats
 
