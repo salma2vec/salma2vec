@@ -30,7 +30,7 @@ I am Salma Shaik. I am a fourth-year undergraduate student at [VIT University](h
 - Undergraduate Student Researcher, [Artificial Intelligence and Robotics Center](https://vitap.ac.in/air-center) (February 2022 - March 2023)
 - Junior Machine Learning Engineer, [Omdena](https://omdena.com/) (November 2021 – February 2022)
 - Machine Learning Intern, [Codebugged AI](https://codebugged.com/) (September 2021 - November 2021)
-- Vice President, [Students for the Exploration and Development of Space VIT](https://sedsvit.in/) (November 2021 - October 2022)
+- Vice President, Projects subdivision, [Students for the Exploration and Development of Space VIT](https://sedsvit.in/) (November 2021 - October 2022)
 
 
 ## I’m currently working on
