@@ -29,7 +29,7 @@ I am Salma Shaik. I am a fourth-year undergraduate student at [VIT University](h
 - Machine Learning Researcher, [PathCheck Foundation](https://www.pathcheck.org/) (February 2022 - May 2022)
 - Undergraduate Student Researcher, [Artificial Intelligence and Robotics Center](https://vitap.ac.in/air-center) (February 2022 - March 2023)
 - Junior Machine Learning Engineer, [Omdena](https://omdena.com/) (November 2021 – February 2022)
-- Machine Learning Intern, [Codebugged AI](https://codebugged.com/) (September 2021 - November 2021)
+- Python Developer, [Codebugged AI](https://codebugged.com/) (September 2021 - November 2021)
 
 ## I’m currently working on
 * Exploring techniques to ensure Privacy at the participant level in Federated Learning setups
