@@ -25,6 +25,7 @@ I am Salma Shaik. I am a fourth-year undergraduate student at [VIT University](h
 - Explore ML Facilitator, [Google Crowdsource](https://events.withgoogle.com/explore-ml-crowdsource/facilitator-program/) (October 2022 - October 2023)
 - Community Lead, [Google Developers Student Club VIT-AP](https://gdsc.community.dev/vellore-institute-of-technology-vit-vellore/) (October 2022 - August 2023)
 - Computer Vision Consultant, [Beneufit Inc.](https://www.beneufit.com/) (June 2022 – September 2022)
+- DL Lead Teaching Assistant, [Neuromatch Academy](https://academy.neuromatch.io/about) (June 2022 - August 2022)
 - Computer Vision Engineer, [Artenal](http://artenal.ca/) (November 2021 – May 2022)
 - Machine Learning Researcher, [PathCheck Foundation](https://www.pathcheck.org/) (February 2022 - May 2022)
 - Undergraduate Student Researcher, [Artificial Intelligence and Robotics Center](https://vitap.ac.in/air-center) (February 2022 - March 2023)
