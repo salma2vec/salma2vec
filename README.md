@@ -47,7 +47,7 @@ I am Salma Shaik. I am a fourth-year undergraduate student at [VIT University](h
 [![Salma's GitHub stats](https://github-readme-stats.vercel.app/api?username=idealisticintj&theme=transparent&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=idealisticintj&color=0759EA" alt="salma" /> </p>
+<p> <img src="https://komarev.com/ghpvc/?username=idealisticintj&color=0759EA" alt="salma" /> </p>
 
 ## Social
 
