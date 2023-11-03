@@ -21,7 +21,7 @@ I am Salma Shaik. I am a fourth-year undergraduate student at [VIT University](h
 - Technical Content Writer and Developer Advocate Intern, [AssetMantle](assetmantle.one) (April 2023 - September 2023)
 - Differential Privacy Apprentice, [OpenMined](https://github.com/OpenMined) (July 2022 - Present)
 - Software Development Engineer Intern, [Microsoft India](https://apps.microsoft.com/home?hl=en-us&gl=US) (May 2023 – July 2023)
-- Computational Bio-science Research Intern, [Carnegie Mellon University](https://xulabs.github.io/) (Aug 2022 - May 2023)
+- Computational Bio-science Research Intern, [Carnegie Mellon University](https://xulabs.github.io/) (November 2022 - May 2023)
 - Explore ML Facilitator, [Google Crowdsource](https://events.withgoogle.com/explore-ml-crowdsource/facilitator-program/) (October 2022 - October 2023)
 - Community Lead, [Google Developers Student Club VIT-AP](https://gdsc.community.dev/vellore-institute-of-technology-vit-vellore/) (October 2022 - August 2023)
 - Computer Vision Consultant, [Beneufit Inc.](https://www.beneufit.com/) (June 2022 – September 2022)
