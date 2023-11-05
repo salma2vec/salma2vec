@@ -43,9 +43,18 @@ I am Salma Shaik. I am a fourth-year undergraduate student at [VIT University](h
 * **Research Papers** and **Publications**
 * Building interesting shit with fun heckers!
 
+
 ## Github Stats
 
-[![Salma's GitHub stats](https://github-readme-stats.vercel.app/api?username=idealisticintj&theme=transparent&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=idealisticintj&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=transparent&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=davicho-dev&locale=en&mode=daily&theme=transparent&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+</div>
+
+###
 
 <br>
 <p> <img src="https://komarev.com/ghpvc/?username=idealisticintj&color=0759EA" alt="salma" /> </p>
