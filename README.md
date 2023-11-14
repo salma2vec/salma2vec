@@ -33,9 +33,9 @@ I am Salma Shaik. I am a fourth-year undergraduate student at [VIT University](h
 - Python Developer, [Codebugged AI](https://codebugged.com/) (September 2021 - November 2021)
 
 ## Current Endeavors
-* Exploring techniques to ensure Privacy at the participant level in Federated Learning setups
-* Pipeline for 3D Cell Segmentation
-* My podcast where I plan to stream Computer Science tutorials and dissect the latest research papers
+* Exploring techniques to ensure privacy at the participant level in federated learning setups
+* Pipeline for 3D cell segmentation
+* My podcast where I plan to stream computer science tutorials and dissect the latest research papers
 
 
 ## Seeking Opportunities
