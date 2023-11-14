@@ -3,7 +3,7 @@
 
 ## About
 
-I am Salma Shaik. I am a fourth-year undergraduate student at [VIT University](https://www.vitap.ac.in). I'm a machine learning engineer and developer advocate based in India, having worked at Microsoft and scaled communities at [Google Developers](https://gdsc.community.dev/vellore-institute-of-technology-vit-vellore/). My other interests aside from Machine Learning are Backend Development and Distributed Systems. Always up to discuss on diffusion models, developer tools, health informatics, human-computer interaction, transhumanism, and literature!
+I am Salma Shaik. I am a fourth-year undergraduate student at [VIT University](https://www.vitap.ac.in). I'm a machine learning engineer and developer advocate based in India, having worked at Microsoft and scaled communities at [Google Developers](https://gdsc.community.dev/vellore-institute-of-technology-vit-vellore/). My other interests aside from machine learning are backend development and distributed systems. Always up to discuss on diffusion models, developer tools, health informatics, human-computer interaction, transhumanism, and literature!
 
 <table>
   <tr>
