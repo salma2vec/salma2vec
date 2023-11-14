@@ -32,16 +32,20 @@ I am Salma Shaik. I am a fourth-year undergraduate student at [VIT University](h
 - Junior Machine Learning Engineer, [Omdena](https://omdena.com/) (November 2021 – February 2022)
 - Python Developer, [Codebugged AI](https://codebugged.com/) (September 2021 - November 2021)
 
-## I’m currently working on
+## Current Endeavors
 * Exploring techniques to ensure Privacy at the participant level in Federated Learning setups
 * Pipeline for 3D Cell Segmentation
 * My podcast where I plan to stream Computer Science tutorials and dissect the latest research papers
 
 
-## I’m looking to collaborate on
-* Doing projects on **Computer Vision (especially on Medical Science)**
-* **Research Papers** and **Publications**
-* Building interesting shit with fun heckers!
+## Seeking Opportunities
+I am actively seeking opportunities in:
+* SDE full-time roles.
+* More focused Machine Learning Engineer (MLE) roles.
+* Particularly interested in positions at remote high-growth startups across EMEA and APAC.
+
+## Freelance Availability
+* I am also open to freelance gigs. Check out my Upwork profile [here](https://www.upwork.com/workwith/salmas50).
 
 
 ## Github Stats
