@@ -67,7 +67,7 @@ I am actively seeking opportunities in:
 
 1. [LinkedIn](https://www.linkedin.com/in/salma7)
 2. [Polywork](https://www.polywork.com/salma_shaik)
-3. [Portfolio](https://www.x.com)
+3. [Portfolio](https://salma-blog.vercel.app)
 4. [YouTube](https://www.youtube.com/channel/UCLFx0nDtHmQW3B8AH7opKLg)
 5. [LeetCode](https://leetcode.com/salmasaa02/)
 6. [Twitter](https://twitter.com/idealisticintj)
