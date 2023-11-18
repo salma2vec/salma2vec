@@ -72,7 +72,7 @@ I am actively seeking opportunities in:
 3. [Portfolio](https://salma-blog.vercel.app)
 4. [YouTube](https://www.youtube.com/channel/UCLFx0nDtHmQW3B8AH7opKLg)
 5. [LeetCode](https://leetcode.com/salmasaa02/)
-6. [Twitter](https://twitter.com/idealisticintj)
+6. [Bluesky](https://bsky.app/profile/salmashaik.bsky.social)
 7. [Kaggle](https://www.kaggle.com/IdealisticINTJ)
 8. [Substack](https://idealisticintj.substack.com/)
 
