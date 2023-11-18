@@ -39,6 +39,8 @@ I am Salma Shaik. I am a fourth-year undergraduate student at [VIT University](h
 
 
 ## Seeking Opportunities
+[![CV Badge](https://img.shields.io/badge/CV-Curriculum%20Vitae-%230759EA)](https://drive.google.com/file/d/1VT-hUrbOhNeMmIpbSM8v9wzKK6aIvvOL/view?usp=sharing)
+
 I am actively seeking opportunities in:
 * SDE full-time roles.
 * More focused Machine Learning Engineer (MLE) roles.
