@@ -74,7 +74,7 @@ I am actively seeking opportunities in:
 5. [LeetCode](https://leetcode.com/salmasaa02/)
 6. [Bluesky](https://bsky.app/profile/salmashaik.bsky.social)
 7. [Kaggle](https://www.kaggle.com/IdealisticINTJ)
-8. [Substack](https://idealisticintj.substack.com/)
+8. [Substack](https://eunoiaverse.substack.com/)
 
 
 
