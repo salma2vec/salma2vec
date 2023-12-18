@@ -17,7 +17,7 @@ I am Salma Shaik. I am a fourth-year undergraduate student at [VIT University](h
 
 ## Timeline
 
-- Community Manager, [Koii Network](https://www.koii.network/) (August 2023 - Present)
+- Community Manager, [Koii Network](https://www.koii.network/) (August 2023 - November 2023)
 - Technical Content Writer and Developer Advocate Intern, [AssetMantle](https://www.assetmantle.one/) (April 2023 - September 2023)
 - Differential Privacy Apprentice, [OpenMined](https://github.com/OpenMined) (July 2022 - Present)
 - Software Development Engineer Intern, [Microsoft India](https://apps.microsoft.com/home?hl=en-us&gl=US) (May 2023 – July 2023)
