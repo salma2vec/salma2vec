@@ -48,22 +48,7 @@ I am actively seeking opportunities in:
 
 ## Freelance Availability
 * I am also open to freelance gigs. Check out my Upwork profile [here](https://www.upwork.com/workwith/salmas50).
-
-
-## Github Stats
-
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=idealisticintj&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=transparent&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=idealisticintj&locale=en&mode=daily&theme=transparent&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-</div>
-
-###
-
-<br>
-<p> <img src="https://komarev.com/ghpvc/?username=idealisticintj&color=0759EA" alt="salma" /> </p>
+  
 
 ## Social
 
@@ -78,7 +63,13 @@ I am actively seeking opportunities in:
 
 
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=idealisticintj&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=transparent&locale=en&hide_border=false" height="150" alt="stats graph"  />
+</div>
 
+
+<br>
+<p> <img src="https://komarev.com/ghpvc/?username=idealisticintj&color=0759EA" alt="salma" /> </p>
 
                                                                                               
 <!--
