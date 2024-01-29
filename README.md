@@ -19,7 +19,7 @@ I am Salma Shaik. I'm a machine learning engineer and developer advocate based i
 - Technical Content Writer and Developer Advocate Intern, [AssetMantle](https://www.assetmantle.one/) (April 2023 - September 2023)
 - Differential Privacy Apprentice, [OpenMined](https://github.com/OpenMined) (July 2022 - Present)
 - Software Development Engineer Intern, [Microsoft India](https://apps.microsoft.com/home?hl=en-us&gl=US) (May 2023 – July 2023)
-- Computational Bio-science Research Intern, [Carnegie Mellon University](https://xulabs.github.io/) (November 2022 - May 2023)
+- Research Intern, [Carnegie Mellon University](https://xulabs.github.io/) (November 2022 - May 2023)
 - Explore ML Facilitator, [Google Crowdsource](https://crowdsource.google.com/about/) (October 2022 - October 2023)
 - Community Lead, [Google Developers Student Club VIT-AP](https://github.com/gdsc-vitap) (October 2022 - August 2023)
 - Computer Vision Consultant, [Beneufit Inc.](https://www.beneufit.com/) (June 2022 – September 2022)
