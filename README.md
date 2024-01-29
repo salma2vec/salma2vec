@@ -37,7 +37,7 @@ I am Salma Shaik. I'm a machine learning engineer and developer advocate based i
 
 
 ## Seeking Opportunities
-[![CV Badge](https://img.shields.io/badge/CV-Curriculum%20Vitae-%230759EA)](https://bit.ly/Salma_CV_SDEv4)
+[![CV Badge](https://img.shields.io/badge/CV-Curriculum%20Vitae-%230759EA)](https://bit.ly/SalmaResume24)
 
 I am actively seeking opportunities in:
 * SDE full-time roles.
