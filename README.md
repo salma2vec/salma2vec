@@ -23,10 +23,6 @@ I am Salma Shaik. I'm a machine learning engineer and backend developer based in
 <br>
 <p> <img src="https://komarev.com/ghpvc/?username=idealisticintj&color=0759EA" alt="salma" /> </p>
 
-<p align="left">
-<a href="https://substack.com/@idealisticintj" target="blank"><img align="center" src="https://cdn0.iconfinder.com/data/icons/small-n-flat/24/678060-rss-512.png" alt="" height="30" width="30" /></a>
-<a href="https://youtube.com/@incurablycuriousdev" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Youtube_colored_svg-512.png" alt="" height="40" width="40" /></a>
-</p>
 
                                                                                               
 <!--
