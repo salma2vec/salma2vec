@@ -3,7 +3,7 @@
 
 ## About
 
-I am Salma Shaik. I'm a machine learning engineer and developer advocate based in India, having worked at Microsoft and scaled communities at [Google Developers](https://gdsc.community.dev/vellore-institute-of-technology-vit-vellore/). My other interests aside from machine learning are backend development, data engineering and distributed systems. Always up to discuss on diffusion models, developer tools, health informatics, worldbuilding, transhumanism, and literature!
+I am Salma Shaik. I'm a machine learning engineer and backend developer based in India, having worked at Microsoft and scaled communities at [Google Developers](https://gdsc.community.dev/vellore-institute-of-technology-vit-vellore/). My other interests aside from machine learning are backend development, data engineering and distributed systems. Always up to discuss on diffusion models, developer tools, health informatics, worldbuilding, transhumanism, and literature!
 
 <table>
   <tr>
@@ -12,41 +12,7 @@ I am Salma Shaik. I'm a machine learning engineer and developer advocate based i
       <td><a href="mailto:salmasaa02@gmail.com"><img src="https://img.shields.io/badge/Gmail--_.svg?style=social&logo=gmail" alt="Gmail"></a></td>
   </tr>
 </table>
-
-## Timeline
-
-- Community Manager, [Koii Network](https://www.koii.network/) (August 2023 - November 2023)
-- Technical Content Writer and Developer Advocate Intern, [AssetMantle](https://www.assetmantle.one/) (April 2023 - September 2023)
-- Differential Privacy Apprentice, [OpenMined](https://github.com/OpenMined) (July 2022 - Present)
-- Software Development Engineer Intern, [Microsoft India](https://apps.microsoft.com/home?hl=en-us&gl=US) (May 2023 – July 2023)
-- Research Intern, [Carnegie Mellon University](https://xulabs.github.io/) (November 2022 - May 2023)
-- Explore ML Facilitator, [Google Crowdsource](https://crowdsource.google.com/about/) (October 2022 - October 2023)
-- Community Lead, [Google Developers Student Club VIT-AP](https://github.com/gdsc-vitap) (October 2022 - August 2023)
-- Computer Vision Consultant, [Beneufit Inc.](https://www.beneufit.com/) (June 2022 – September 2022)
-- DL Lead Teaching Assistant, [Neuromatch Academy](https://academy.neuromatch.io/about) (June 2022 - August 2022)
-- Computer Vision Engineer, [Artenal](http://artenal.ca/) (November 2021 – May 2022)
-- Machine Learning Researcher, [PathCheck Foundation](https://www.pathcheck.org/) (February 2022 - May 2022)
-- Undergraduate Student Researcher, [Artificial Intelligence and Robotics Center](https://vitap.ac.in/air-center) (February 2022 - March 2023)
-- Junior Machine Learning Engineer, [Omdena](https://omdena.com/) (November 2021 – February 2022)
-- Python Developer, [Codebugged AI](https://codebugged.com/) (September 2021 - November 2021)
-
-## Current Endeavors
-* Exploring techniques to ensure privacy at the participant level in federated learning setups
-* Pipeline for 3D cell segmentation
-* My podcast where I plan to stream computer science tutorials and dissect the latest research papers
-
-
-## Seeking Opportunities
-[![CV Badge](https://img.shields.io/badge/CV-Curriculum%20Vitae-%230759EA)](https://bit.ly/SalmaResume24)
-
-I am actively seeking opportunities in:
-* SDE full-time roles.
-* More focused Machine Learning Engineer (MLE) roles.
-* Particularly interested in positions at remote high-growth startups across EMEA and APAC.
-
-## Freelance Availability
-* I am also open to freelance gigs. Check out my Upwork profile [here](https://www.upwork.com/workwith/salmas50).
-
+ 
 ## Stats
 
 <div align="left">
