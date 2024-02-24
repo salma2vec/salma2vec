@@ -1,9 +1,6 @@
+__Hi. My name is Salma and I am currently working as a software engineer focused on Platform (backend) and MLOps. My background includes applied research in deep learning in the domain of cell segmentation at Carnegie Mellon, privacy-preserving ML at OpenMined and graph neural networks at PathCheck. I worked as a software engineer at Microsoft focusing on natural language intent integration for enhancing Store catalog categorization across Apps and Games collections. My interests span representation learning in vision with self/weak supervision, human-AI interaction, neuro-symbolic approaches and compilers.__
 
-![banner](https://github.com/IdealisticINTJ/IdealisticINTJ/assets/65449934/b03a3821-5729-4b87-a290-59765340d992)
-
-## About
-
-I am Salma Shaik. I'm a machine learning engineer and backend developer based in India, having worked at Microsoft and scaled communities at [Google Developers](https://gdsc.community.dev/vellore-institute-of-technology-vit-vellore/). My other interests aside from machine learning are backend development, data engineering and distributed systems. Always up to discuss on diffusion models, developer tools, health informatics, worldbuilding, transhumanism, and literature!
+__Over the years, I have worked in machine learning and perception engineering at 5+ AI-first startups across healthcare, autonomous agrobotics, and developer tooling.  Always up to discuss on diffusion models, developer tools, health informatics, worldbuilding, transhumanism, and literature!__
 
 <table>
   <tr>
