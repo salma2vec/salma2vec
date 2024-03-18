@@ -1,6 +1,6 @@
-I'm Salma, a software engineer specializing in Platform (backend) and MLOps. Previously, I interned at [Microsoft](https://apps.microsoft.com/home), focusing on natural language intent integration for catalog categorization. I've worked in machine learning and perception engineering at several AI-first startups, with a focus on healthcare, autonomous agrobotics, and developer tooling. I'm fond of applied research and have worked on deep learning for cell segmentation at [Carnegie Mellon](https://xulabs.github.io/), privacy-preserving ML at [OpenMined](https://openmined.org/), and contributed to modelling contact tracing solutions using GNNs for pandemic global health initiatives at [PathCheck](https://www.pathcheck.org/).
+I'm **Salma**, a software developer from Bangalore, India. I'm also an equestrian and a proud advocate for embracing the whimsical charm of a crazy cat lady life.
 
-Always up to chat on diffusion models, health informatics, worldbuilding, transhumanism, literature and any boisterous builder ideas!
+Previously, I interned at [Microsoft](https://apps.microsoft.com/home), focusing on natural language intent integration for catalog categorization. I've worked in machine learning and perception engineering at several AI-first startups, with a focus on healthcare, autonomous agrobotics, and developer tooling. I'm fond of applied research and have tinkered around in deep learning for cell segmentation at [Carnegie Mellon](https://xulabs.github.io/), privacy-preserving data sharing at [OpenMined](https://openmined.org/), and contributed to modelling contact tracing solutions using GNNs for pandemic global health initiatives at [PathCheck](https://www.pathcheck.org/).
 
 <table>
   <tr>
@@ -19,8 +19,6 @@ Always up to chat on diffusion models, health informatics, worldbuilding, transh
 
 <br>
 <p> <img src="https://komarev.com/ghpvc/?username=idealisticintj&color=0759EA" alt="salma" /> </p>
-
-
                                                                                               
 <!--
 **IdealisticINTJ/IdealisticINTJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
