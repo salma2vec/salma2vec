@@ -1,6 +1,6 @@
 I'm **Salma**, a software developer from Bangalore, India. I'm also an equestrian and a proud advocate for embracing the whimsical charm of a crazy cat lady life.
 
-Previously, I interned at [Microsoft](https://apps.microsoft.com/home), focusing on natural language intent integration for catalog categorization. I've worked in machine learning and perception engineering at several AI-first startups, with a focus on healthcare, autonomous agrobotics, and developer tooling. I'm fond of applied research and have tinkered around in deep learning for cell segmentation at [Carnegie Mellon](https://xulabs.github.io/), privacy-preserving data sharing at [OpenMined](https://openmined.org/), and contributed to modelling contact tracing solutions using GNNs for pandemic global health initiatives at [PathCheck](https://www.pathcheck.org/).
+Previously, I worked at [Microsoft](https://apps.microsoft.com/home), focusing on natural language intent integration for catalog categorization. I've led projects in machine learning and perception engineering at several AI-first startups, with a focus on healthcare, autonomous agrobotics, and developer tooling. I'm fond of applied research and have tinkered around in deep learning for cell segmentation at [Carnegie Mellon](https://xulabs.github.io/), privacy-preserving data sharing at [OpenMined](https://openmined.org/), and contributed to modelling contact tracing solutions using GNNs for pandemic global health initiatives at [PathCheck](https://www.pathcheck.org/).
 
 <table>
   <tr>
