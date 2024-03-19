@@ -9,13 +9,6 @@ Previously, I worked at [Microsoft](https://apps.microsoft.com/home), focusing o
       <td><a href="mailto:salmasaa02@gmail.com"><img src="https://img.shields.io/badge/Gmail--_.svg?style=social&logo=gmail" alt="Gmail"></a></td>
   </tr>
 </table>
- 
-## Stats
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=idealisticintj&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=transparent&locale=en&hide_border=false" height="150" alt="stats graph"  />
-</div>
-
 
 <br>
 <p> <img src="https://komarev.com/ghpvc/?username=idealisticintj&color=0759EA" alt="salma" /> </p>
