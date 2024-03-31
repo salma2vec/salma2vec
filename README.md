@@ -1,6 +1,6 @@
-I'm **Salma**, a software developer from Bangalore, India. I'm also an equestrian and a proud advocate for embracing the whimsical charm of a crazy cat lady life.
+**I'm Salma, a research engineer tinkering with data and systems. I'm also an equestrian and a proud advocate for embracing the whimsical charm of a crazy cat lady life.**
 
-Previously, I worked at [Microsoft](https://apps.microsoft.com/home), focusing on leveraging GPT-enriched metadata for Store catalog categorization. I've led projects in machine learning and perception engineering at several AI-first startups, with a focus on healthcare, autonomous agrobotics, and developer tooling. I'm fond of applied research and have tinkered around in deep learning for cell segmentation at [Carnegie Mellon](https://xulabs.github.io/), privacy-preserving data sharing at [OpenMined](https://openmined.org/), and contributed to modelling contact tracing solutions using GNNs for pandemic global health initiatives at [PathCheck](https://www.pathcheck.org/).
+**Previously, I worked at [Microsoft](https://apps.microsoft.com/home), focusing on leveraging GPT-enriched metadata for Store catalog categorization. I've led projects in data and perception engineering at several AI-first startups, with a focus on healthcare, autonomous agrobotics, and developer tooling. I'm fond of applied research and have researched deep learning for cell segmentation at Carnegie Mellon, privacy-preserving data sharing at [OpenMined](https://openmined.org/), and modelled contact tracing solutions using GNNs for pandemic global health initiatives at [PathCheck](https://www.pathcheck.org/).**
 
 <table>
   <tr>
