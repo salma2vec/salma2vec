@@ -7,6 +7,7 @@
     <td><a href="https://twitter.com/IdealisticINTJ"><img src="https://img.shields.io/twitter/follow/IdealisticINTJ?label=Twitter&style=social" alt="Twitter"></a</td>
       <td><a href="https://www.linkedin.com/in/salma7"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a></td>
       <td><a href="mailto:salmasaa02@gmail.com"><img src="https://img.shields.io/badge/Gmail--_.svg?style=social&logo=gmail" alt="Gmail"></a></td>
+        <td><a href="https://substack.com/@salma2vec"><img src="https://img.shields.io/badge/Substack-%23006f5c.svg?style=for-the-badge&logo=substack&logoColor=FF6719" alt="Substack" style="height: 20px;"></a></td>
   </tr>
 </table>
 
