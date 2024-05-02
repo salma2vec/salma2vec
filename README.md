@@ -11,13 +11,6 @@ Previously, I worked at [Microsoft](https://apps.microsoft.com/home), focusing o
   </tr>
 </table>
 
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=idealisticintj&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=transparent&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=idealisticintj&locale=en&mode=daily&theme=transparent&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-</div>
-
 ###
 
 <br>
